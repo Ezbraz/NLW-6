@@ -1,2 +1,10 @@
 # NLW-6-Beautysalon
- Modelo de site desenvolvido seguindo as aulas do Rocketseat
+<line>
+ 
+## Modelo de site desenvolvido seguindo as aulas do Rocketseat
+ 
+ <li> Modelo responsivo
+ <li> Base em html5 
+ <li> Design em css3
+ <li> Javascript
+ 
